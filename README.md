@@ -8,7 +8,7 @@ index.html
     <meta charset="UTF"-8>
     <meta name="viewport" content="width=device-width,initial-scale1.0">
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-    <title>Apurva Fitness</title>
+    <title>Appy Food</title>
 </head>
 <body>
     <header class="text-gray-600 body-font">
@@ -17,7 +17,7 @@ index.html
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span class="ml-3 text-xl">Fitness</span>
+            <span class="ml-3 text-xl">Appy's Food court</span>
           </a>
           <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
             <a href="/"class="mr-5 hover:text-gray-900">Home</a>
@@ -25,7 +25,7 @@ index.html
             <a href="/" class="mr-5 hover:text-gray-900">services</a>
             <a href="/" class="mr-5 hover:text-gray-900">Contact</a>
           </nav>
-          <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Enroll Now
+          <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Order here
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
@@ -36,20 +36,23 @@ index.html
       <section class="text-gray-600 body-font">
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Get ready to be Fit!
-              <br class="hidden lg:inline-block">Let's burn the calories
+            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Love your Hunger!
+              <br class="hidden lg:inline-block">Live. Love. Eat.
             </h1>
-            <p class="mb-8 leading-relaxed">Finding motivation to work out can be challenging. There are so many distractions and less physically demanding alternatives to spending an hour at the gym or working out at home. Even when we do get to the gym or start a home workout, having the desire to work hard and push ourselves is another challenge.</p>
+            <p class="mb-8 leading-relaxed">Eating is not merely a material pleasure. Eating well gives a spectacular joy to life and contributes immensely to goodwill and happy companionship. It is of great importance to the morale.</p>
             <div class="flex justify-center">
-              <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Diet</button>
-              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">workout</button>
+              <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Veg</button>
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Non-veg</button>
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Dessert</button>
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Drinks</button>
             </div>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-            <img class="object-cover object-center rounded" alt="hero" src="https://source.unsplash.com/720x600/?fitness">
+            <img class="object-cover object-center rounded" alt="hero" src="https://source.unsplash.com/720x600/?food">
           </div>
         </div>
       </section>
+      
       <hr>
       <section class="text-gray-600 body-font relative">
         <div class="container px-5 py-24 mx-auto">
@@ -82,8 +85,8 @@ index.html
               </div>
               <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
                 <a class="text-indigo-500">example@email.com</a>
-                <p class="leading-normal my-5">near hdfc bank,Uruli kanchan(412202)
-                  <br>Pune,Maharashtra.
+                <p class="leading-normal my-5">near butterfly garden,
+                  <br>c biulding,Pune,Maharashtra.
                 </p>
                 <span class="inline-flex">
                   <a class="text-gray-500">
